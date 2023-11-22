@@ -22,7 +22,7 @@ function Banner() {
         <div className="artist">
           <div className="left">
             <div className="name">
-              <h2>A-ha</h2>
+              <h2>Art Avetisyan</h2>
               <img src={check} alt="" />
             </div>
 
